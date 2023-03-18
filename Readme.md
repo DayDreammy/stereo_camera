@@ -62,18 +62,17 @@
 # 仓库介绍
 
 ## 文件目录：
-​    CameraCalibration.zip
-​    FlowStereoRectify.zip
-​    readme.txt
-​    sgbm_with_omp.rar
-​    stereo_with_omp_all.rar
-​    
+- CameraCalibration.zip
+- FlowStereoRectify.zip
+- sgbm_with_omp.rar
+- stereo_with_omp_all.rar
+  ​    
 
 ## 文件说明：
 
 ​    4个压缩包均为Visual Studio 2022 工程项目文件，OpenCV 版本为3.4.16 ，运行需自行导入相关属性表。
-​    1.sgbm_with_omp.rar的项目文件夹下有原图cones对应的正确视差图，可以与计算得到的视差图比较得到eRMS,ePEP,Mde/s等评估结果；
-​    2.stereo_with_omp_all.rar的项目文件夹有我们的自制数据集，但因为没有标准视差图，不能计算eRMS,ePEP,Mde/s等值，
-文件夹内有标定之后得到的相机内参矩阵信息，可以用在转化为深度图与点云之中。
-​    3.CameraCalibration.zip的项目文件有相机内参标定内容。
-​    4.FlowStereoRectify.zip的项目文件有光流法外参估计立体校正内容。
+
+1. ​    sgbm_with_omp.rar的项目文件夹下有原图cones对应的正确视差图，可以与计算得到的视差图比较得到eRMS,ePEP,Mde/s等评估结果；
+2. ​    stereo_with_omp_all.rar的项目文件夹有我们的自制数据集，但因为没有标准视差图，不能计算eRMS,ePEP,Mde/s等值，文件夹内有标定之后得到的相机内参矩阵信息，可以用在转化为深度图与点云之中。
+3. ​    CameraCalibration.zip的项目文件有相机内参标定内容。
+4. ​    FlowStereoRectify.zip的项目文件有光流法外参估计立体校正内容。**(创新点)**
