@@ -1,3 +1,5 @@
+致谢：SGBM算法参考[https://blog.csdn.net/rs_lys/article/details/83614915](https://blog.csdn.net/rs_lys/article/details/83614915) （作者：CSDN 博主 rs_lys / 李迎松）系列文章实现，特此致谢！
+
 # readme
 
 # 简介
