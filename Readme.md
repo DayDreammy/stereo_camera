@@ -1,5 +1,7 @@
 致谢：SGBM算法参考[https://blog.csdn.net/rs_lys/article/details/83614915](https://blog.csdn.net/rs_lys/article/details/83614915) （作者：CSDN 博主 rs_lys / 李迎松）系列文章实现，特此致谢！
 
+相关代码版权归原作者所有，原作者的开源项目遵循 MIT 协议：[https://github.com/ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching)
+
 # readme
 
 # 简介
